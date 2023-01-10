@@ -16,7 +16,7 @@ console.log(8 * 6);
 console.log(30 / 9);
 
 //Resto
-console.log(95 % 4);
+console.log(21 % 5);
 
 //Prueba de precedencia
 console.log(3 + 5 * 2 - 8);
